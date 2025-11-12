@@ -1,0 +1,8 @@
+com/example/framework/BaseTest.class
+com/example/framework/RequestBuilder.class
+com/example/framework/DataUtils.class
+com/example/framework/ResponseValidator.class
+com/example/framework/ApiClient.class
+com/example/framework/logging/Slf4jRestAssuredFilter.class
+com/example/model/Movie.class
+com/example/framework/Config.class

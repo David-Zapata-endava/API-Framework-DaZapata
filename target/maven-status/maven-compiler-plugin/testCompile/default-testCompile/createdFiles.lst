@@ -1,0 +1,8 @@
+com/example/framework/TestBase.class
+com/example/tests/SystemProcessTests.class
+com/example/tests/TMDBApiTest.class
+com/example/tests/SampleApiTest.class
+com/example/tests/ProcessScenariosTest.class
+com/example/framework/TestConfig.class
+com/example/framework/TestResponseValidator.class
+com/example/tests/ProcessWriteScenariosTest.class
